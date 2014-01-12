@@ -7,7 +7,7 @@ This is a basic template with a modularised folder structure for a front-end sit
 If you don't have it already, install [Node.js](http://nodejs.org). Then run the Shell script below.
 
     # Install Grunt on new device
-    npm install -g grunt-cli
+    sudo npm install -g grunt-cli
     # Install dependencies to folder
     npm install
     # And... action!
