@@ -1,6 +1,6 @@
 # Baseline
 
-This is a basic modularised folder structure for a front-end site or app. It comes with Grunt tasks to concatenate and minify them all.
+This is a basic template with a modularised folder structure for a front-end site or app. It comes with Grunt tasks to concatenate and minify all source files.
 
 ## How to use
 
