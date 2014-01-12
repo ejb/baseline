@@ -11,7 +11,7 @@ module.exports = function(grunt) {
             },
             html: {
                 src: 'src/html/*',
-                dest: 'dist/script.js'
+                dest: 'dist/index.htm'
             }
             
         },
