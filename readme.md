@@ -10,5 +10,8 @@ If you don't have it already, install [Node.js](http://nodejs.org). Then run the
     sudo npm install -g grunt-cli
     # Install dependencies to folder
     npm install
+    # Install Bourbon
+    gem install bourbon
+    bourbon install
     # And... action!
     grunt

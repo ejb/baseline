@@ -1,2 +1,5 @@
 dist/**/*
 node_modules/**/*
+bourbon/**/*
+.DS_Store
+*/.DS_Store
